@@ -1,2 +1,2 @@
 # openmamrm
-An Organisation of Template Mobile Applications Related Medical Record Management
+An Open Source Mobile Application Interface for Electronic Health Record and Medical Practice Management Solutions
