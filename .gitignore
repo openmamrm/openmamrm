@@ -9,6 +9,7 @@
 /gh-pages
 /ideaSDK
 /clionSDK
+/build
 /android-studio/sdk
 out/
 /tmp
